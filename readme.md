@@ -5,5 +5,6 @@
 > [comment]: <> (Date format is dd/mm/yyyy)
 >   - Choice game template (Originally created on 09/11/2022) [➡️repository⬅️](https://github.com/EloiD-R/little-sides-projects/tree/main/Python/Choice-game-template/)
 >   - Bingo (originally created on 06/11/2022) [➡️repository⬅️](https://github.com/EloiD-R/little-sides-projects/tree/main/Python/bingo-in-python)
+>   - Bet game (origninally created on 08/12/2022) [➡️repository⬅️](https://github.com/EloiD-R/little-sides-projects/tree/main/Python/Bet-game-(for%20rpi%20pico))
  
  # in build
