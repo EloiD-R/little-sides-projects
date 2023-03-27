@@ -3,7 +3,7 @@
 ### Summary :
 
 #### Rust-lang : 
-> I never did a real project in Rust because i'm learning it but you can find my [learning projects](https://github.com/EloiD-R/Rust-learning)
+> I never did a real project in Rust because i'm learning it but you can find my [learning projects here](https://github.com/EloiD-R/Rust-learning)
 
 #### Python : 
 > [comment]: <> (Date format is dd/mm/yyyy)
